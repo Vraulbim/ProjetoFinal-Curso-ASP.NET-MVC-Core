@@ -32,10 +32,7 @@ namespace DevIO.App.ViewModels
 
         public string Imagem { get; set; }
 
-        [Required(ErrorMessage = "O campo {0} é obrigatório")]
-        [Moeda]
-        public decimal Valor { get; set; }
-
+        [Required(ErrorMessage = "O campo {0} é obriga       public decimal Valor { get; set;
         [ScaffoldColumn(false)]
         public DateTime DataCadastro { get; set; }
 
