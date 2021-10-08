@@ -38,3 +38,15 @@ C:\Users\Desenvolvimento\Documents\Cursos Ponto.Sys\AppMvcCompleta\AppMVCComplet
 C:\Users\Desenvolvimento\Documents\Cursos Ponto.Sys\AppMvcCompleta\AppMVCCompleta\src\DevIO.App\bin\Debug\netcoreapp2.2\DevIO.Data.dll
 C:\Users\Desenvolvimento\Documents\Cursos Ponto.Sys\AppMvcCompleta\AppMVCCompleta\src\DevIO.App\bin\Debug\netcoreapp2.2\DevIO.Data.pdb
 C:\Users\Desenvolvimento\Documents\Cursos Ponto.Sys\AppMvcCompleta\AppMVCCompleta\src\DevIO.App\bin\Debug\netcoreapp2.2\DevIO.Business.pdb
+C:\Users\Desenvolvimento\Documents\Cursos Ponto.Sys\AppMvcCompleta\AppMVCCompleta\src\DevIO.App\obj\Debug\netcoreapp2.2\Razor\Views\Fornecedores\Create.cshtml.g.cs
+C:\Users\Desenvolvimento\Documents\Cursos Ponto.Sys\AppMvcCompleta\AppMVCCompleta\src\DevIO.App\obj\Debug\netcoreapp2.2\Razor\Views\Fornecedores\Delete.cshtml.g.cs
+C:\Users\Desenvolvimento\Documents\Cursos Ponto.Sys\AppMvcCompleta\AppMVCCompleta\src\DevIO.App\obj\Debug\netcoreapp2.2\Razor\Views\Fornecedores\Details.cshtml.g.cs
+C:\Users\Desenvolvimento\Documents\Cursos Ponto.Sys\AppMvcCompleta\AppMVCCompleta\src\DevIO.App\obj\Debug\netcoreapp2.2\Razor\Views\Fornecedores\Edit.cshtml.g.cs
+C:\Users\Desenvolvimento\Documents\Cursos Ponto.Sys\AppMvcCompleta\AppMVCCompleta\src\DevIO.App\obj\Debug\netcoreapp2.2\Razor\Views\Fornecedores\Index.cshtml.g.cs
+C:\Users\Desenvolvimento\Documents\Cursos Ponto.Sys\AppMvcCompleta\AppMVCCompleta\src\DevIO.App\obj\Debug\netcoreapp2.2\Razor\Views\Produtos\Create.cshtml.g.cs
+C:\Users\Desenvolvimento\Documents\Cursos Ponto.Sys\AppMvcCompleta\AppMVCCompleta\src\DevIO.App\obj\Debug\netcoreapp2.2\Razor\Views\Produtos\Delete.cshtml.g.cs
+C:\Users\Desenvolvimento\Documents\Cursos Ponto.Sys\AppMvcCompleta\AppMVCCompleta\src\DevIO.App\obj\Debug\netcoreapp2.2\Razor\Views\Produtos\Details.cshtml.g.cs
+C:\Users\Desenvolvimento\Documents\Cursos Ponto.Sys\AppMvcCompleta\AppMVCCompleta\src\DevIO.App\obj\Debug\netcoreapp2.2\Razor\Views\Produtos\Edit.cshtml.g.cs
+C:\Users\Desenvolvimento\Documents\Cursos Ponto.Sys\AppMvcCompleta\AppMVCCompleta\src\DevIO.App\obj\Debug\netcoreapp2.2\Razor\Views\Produtos\Index.cshtml.g.cs
+C:\Users\Desenvolvimento\Documents\Cursos Ponto.Sys\AppMvcCompleta\AppMVCCompleta\src\DevIO.App\obj\Debug\netcoreapp2.2\Razor\Views\Fornecedores\_Endereco.cshtml.g.cs
+C:\Users\Desenvolvimento\Documents\Cursos Ponto.Sys\AppMvcCompleta\AppMVCCompleta\src\DevIO.App\bin\Debug\netcoreapp2.2\libman.json
