@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Desenvolvimento\\Documents\\Cursos Ponto.Sys\\AppMvcCompleta\\AppMVCCompleta\\src\\DevIO.App\\DevIO.App.csproj": {}
+    "C:\\Users\\Desenvolvimento\\Downloads\\Vitor-Ponto.Sys\\Vitor\\ProjetoFinal-Curso-ASP.NET-MVC-Core\\ProjetoFinal-Curso-ASP.NET-MVC-Core-main\\src\\DevIO.App\\DevIO.App.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Desenvolvimento\\Documents\\Cursos Ponto.Sys\\AppMvcCompleta\\AppMVCCompleta\\src\\DevIO.App\\DevIO.App.csproj": {
+    "C:\\Users\\Desenvolvimento\\Downloads\\Vitor-Ponto.Sys\\Vitor\\ProjetoFinal-Curso-ASP.NET-MVC-Core\\ProjetoFinal-Curso-ASP.NET-MVC-Core-main\\src\\DevIO.App\\DevIO.App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Desenvolvimento\\Documents\\Cursos Ponto.Sys\\AppMvcCompleta\\AppMVCCompleta\\src\\DevIO.App\\DevIO.App.csproj",
+        "projectUniqueName": "C:\\Users\\Desenvolvimento\\Downloads\\Vitor-Ponto.Sys\\Vitor\\ProjetoFinal-Curso-ASP.NET-MVC-Core\\ProjetoFinal-Curso-ASP.NET-MVC-Core-main\\src\\DevIO.App\\DevIO.App.csproj",
         "projectName": "DevIO.App",
-        "projectPath": "C:\\Users\\Desenvolvimento\\Documents\\Cursos Ponto.Sys\\AppMvcCompleta\\AppMVCCompleta\\src\\DevIO.App\\DevIO.App.csproj",
+        "projectPath": "C:\\Users\\Desenvolvimento\\Downloads\\Vitor-Ponto.Sys\\Vitor\\ProjetoFinal-Curso-ASP.NET-MVC-Core\\ProjetoFinal-Curso-ASP.NET-MVC-Core-main\\src\\DevIO.App\\DevIO.App.csproj",
         "packagesPath": "C:\\Users\\Desenvolvimento\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Desenvolvimento\\Documents\\Cursos Ponto.Sys\\AppMvcCompleta\\AppMVCCompleta\\src\\DevIO.App\\obj\\",
+        "outputPath": "C:\\Users\\Desenvolvimento\\Downloads\\Vitor-Ponto.Sys\\Vitor\\ProjetoFinal-Curso-ASP.NET-MVC-Core\\ProjetoFinal-Curso-ASP.NET-MVC-Core-main\\src\\DevIO.App\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -31,8 +31,8 @@
           "netcoreapp2.2": {
             "targetAlias": "netcoreapp2.2",
             "projectReferences": {
-              "C:\\Users\\Desenvolvimento\\Documents\\Cursos Ponto.Sys\\AppMvcCompleta\\AppMVCCompleta\\src\\DevIO.Data\\DevIO.Data.csproj": {
-                "projectPath": "C:\\Users\\Desenvolvimento\\Documents\\Cursos Ponto.Sys\\AppMvcCompleta\\AppMVCCompleta\\src\\DevIO.Data\\DevIO.Data.csproj"
+              "C:\\Users\\Desenvolvimento\\Downloads\\Vitor-Ponto.Sys\\Vitor\\ProjetoFinal-Curso-ASP.NET-MVC-Core\\ProjetoFinal-Curso-ASP.NET-MVC-Core-main\\src\\DevIO.Data\\DevIO.Data.csproj": {
+                "projectPath": "C:\\Users\\Desenvolvimento\\Downloads\\Vitor-Ponto.Sys\\Vitor\\ProjetoFinal-Curso-ASP.NET-MVC-Core\\ProjetoFinal-Curso-ASP.NET-MVC-Core-main\\src\\DevIO.Data\\DevIO.Data.csproj"
               }
             }
           }
@@ -121,14 +121,14 @@
         }
       }
     },
-    "C:\\Users\\Desenvolvimento\\Documents\\Cursos Ponto.Sys\\AppMvcCompleta\\AppMVCCompleta\\src\\DevIO.Business\\DevIO.Business.csproj": {
+    "C:\\Users\\Desenvolvimento\\Downloads\\Vitor-Ponto.Sys\\Vitor\\ProjetoFinal-Curso-ASP.NET-MVC-Core\\ProjetoFinal-Curso-ASP.NET-MVC-Core-main\\src\\DevIO.Business\\DevIO.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Desenvolvimento\\Documents\\Cursos Ponto.Sys\\AppMvcCompleta\\AppMVCCompleta\\src\\DevIO.Business\\DevIO.Business.csproj",
+        "projectUniqueName": "C:\\Users\\Desenvolvimento\\Downloads\\Vitor-Ponto.Sys\\Vitor\\ProjetoFinal-Curso-ASP.NET-MVC-Core\\ProjetoFinal-Curso-ASP.NET-MVC-Core-main\\src\\DevIO.Business\\DevIO.Business.csproj",
         "projectName": "DevIO.Business",
-        "projectPath": "C:\\Users\\Desenvolvimento\\Documents\\Cursos Ponto.Sys\\AppMvcCompleta\\AppMVCCompleta\\src\\DevIO.Business\\DevIO.Business.csproj",
+        "projectPath": "C:\\Users\\Desenvolvimento\\Downloads\\Vitor-Ponto.Sys\\Vitor\\ProjetoFinal-Curso-ASP.NET-MVC-Core\\ProjetoFinal-Curso-ASP.NET-MVC-Core-main\\src\\DevIO.Business\\DevIO.Business.csproj",
         "packagesPath": "C:\\Users\\Desenvolvimento\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Desenvolvimento\\Documents\\Cursos Ponto.Sys\\AppMvcCompleta\\AppMVCCompleta\\src\\DevIO.Business\\obj\\",
+        "outputPath": "C:\\Users\\Desenvolvimento\\Downloads\\Vitor-Ponto.Sys\\Vitor\\ProjetoFinal-Curso-ASP.NET-MVC-Core\\ProjetoFinal-Curso-ASP.NET-MVC-Core-main\\src\\DevIO.Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -160,6 +160,10 @@
         "netcoreapp2.2": {
           "targetAlias": "netcoreapp2.2",
           "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[8.3.0, )"
+            },
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
               "target": "Package",
@@ -181,14 +185,14 @@
         }
       }
     },
-    "C:\\Users\\Desenvolvimento\\Documents\\Cursos Ponto.Sys\\AppMvcCompleta\\AppMVCCompleta\\src\\DevIO.Data\\DevIO.Data.csproj": {
+    "C:\\Users\\Desenvolvimento\\Downloads\\Vitor-Ponto.Sys\\Vitor\\ProjetoFinal-Curso-ASP.NET-MVC-Core\\ProjetoFinal-Curso-ASP.NET-MVC-Core-main\\src\\DevIO.Data\\DevIO.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Desenvolvimento\\Documents\\Cursos Ponto.Sys\\AppMvcCompleta\\AppMVCCompleta\\src\\DevIO.Data\\DevIO.Data.csproj",
+        "projectUniqueName": "C:\\Users\\Desenvolvimento\\Downloads\\Vitor-Ponto.Sys\\Vitor\\ProjetoFinal-Curso-ASP.NET-MVC-Core\\ProjetoFinal-Curso-ASP.NET-MVC-Core-main\\src\\DevIO.Data\\DevIO.Data.csproj",
         "projectName": "DevIO.Data",
-        "projectPath": "C:\\Users\\Desenvolvimento\\Documents\\Cursos Ponto.Sys\\AppMvcCompleta\\AppMVCCompleta\\src\\DevIO.Data\\DevIO.Data.csproj",
+        "projectPath": "C:\\Users\\Desenvolvimento\\Downloads\\Vitor-Ponto.Sys\\Vitor\\ProjetoFinal-Curso-ASP.NET-MVC-Core\\ProjetoFinal-Curso-ASP.NET-MVC-Core-main\\src\\DevIO.Data\\DevIO.Data.csproj",
         "packagesPath": "C:\\Users\\Desenvolvimento\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Desenvolvimento\\Documents\\Cursos Ponto.Sys\\AppMvcCompleta\\AppMVCCompleta\\src\\DevIO.Data\\obj\\",
+        "outputPath": "C:\\Users\\Desenvolvimento\\Downloads\\Vitor-Ponto.Sys\\Vitor\\ProjetoFinal-Curso-ASP.NET-MVC-Core\\ProjetoFinal-Curso-ASP.NET-MVC-Core-main\\src\\DevIO.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -208,8 +212,8 @@
           "netcoreapp2.2": {
             "targetAlias": "netcoreapp2.2",
             "projectReferences": {
-              "C:\\Users\\Desenvolvimento\\Documents\\Cursos Ponto.Sys\\AppMvcCompleta\\AppMVCCompleta\\src\\DevIO.Business\\DevIO.Business.csproj": {
-                "projectPath": "C:\\Users\\Desenvolvimento\\Documents\\Cursos Ponto.Sys\\AppMvcCompleta\\AppMVCCompleta\\src\\DevIO.Business\\DevIO.Business.csproj"
+              "C:\\Users\\Desenvolvimento\\Downloads\\Vitor-Ponto.Sys\\Vitor\\ProjetoFinal-Curso-ASP.NET-MVC-Core\\ProjetoFinal-Curso-ASP.NET-MVC-Core-main\\src\\DevIO.Business\\DevIO.Business.csproj": {
+                "projectPath": "C:\\Users\\Desenvolvimento\\Downloads\\Vitor-Ponto.Sys\\Vitor\\ProjetoFinal-Curso-ASP.NET-MVC-Core\\ProjetoFinal-Curso-ASP.NET-MVC-Core-main\\src\\DevIO.Business\\DevIO.Business.csproj"
               }
             }
           }

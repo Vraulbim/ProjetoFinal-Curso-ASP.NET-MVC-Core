@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ASnRSfqvdoYFrYMAXXKe88QCKMi+LIHTrqotbj3wG0wB6RZ7yjG5WIQtXKjFn22GAcfvgdhPTcroJiCSxAvWHA==",
+  "dgSpecHash": "LeMUjXKfX8vWfLPsVBT/9kP5VOf3zLX/e5zzg830uyHFq7+rE9KDhf4pFjfF2TqHELKwQzc1h8Ky1JhbgPFfCg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Desenvolvimento\\Documents\\Cursos Ponto.Sys\\AppMvcCompleta\\AppMVCCompleta\\src\\DevIO.Data\\DevIO.Data.csproj",
+  "projectFilePath": "C:\\Users\\Desenvolvimento\\Downloads\\Vitor-Ponto.Sys\\Vitor\\ProjetoFinal-Curso-ASP.NET-MVC-Core\\ProjetoFinal-Curso-ASP.NET-MVC-Core-main\\src\\DevIO.Data\\DevIO.Data.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Desenvolvimento\\.nuget\\packages\\fluentvalidation\\8.3.0\\fluentvalidation.8.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.entityframeworkcore\\2.2.0\\microsoft.entityframeworkcore.2.2.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.entityframeworkcore.abstractions\\2.2.0\\microsoft.entityframeworkcore.abstractions.2.2.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.entityframeworkcore.analyzers\\2.2.0\\microsoft.entityframeworkcore.analyzers.2.2.0.nupkg.sha512",
