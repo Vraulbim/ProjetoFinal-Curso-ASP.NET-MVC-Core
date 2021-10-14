@@ -28,3 +28,13 @@ C:\Users\Desenvolvimento\Downloads\Vitor-Ponto.Sys\Vitor\ProjetoFinal-Curso-ASP.
 C:\Users\Desenvolvimento\Downloads\Vitor-Ponto.Sys\Vitor\ProjetoFinal-Curso-ASP.NET-MVC-Core\ProjetoFinal-Curso-ASP.NET-MVC-Core-main\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.csproj.CoreCompileInputs.cache
 C:\Users\Desenvolvimento\Downloads\Vitor-Ponto.Sys\Vitor\ProjetoFinal-Curso-ASP.NET-MVC-Core\ProjetoFinal-Curso-ASP.NET-MVC-Core-main\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.dll
 C:\Users\Desenvolvimento\Downloads\Vitor-Ponto.Sys\Vitor\ProjetoFinal-Curso-ASP.NET-MVC-Core\ProjetoFinal-Curso-ASP.NET-MVC-Core-main\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.pdb
+C:\Users\Desenvolvimento\Documents\Cursos Ponto.Sys\ASP.NET Core MVC\AppMvcCompleta\AppMVCCompleta\src\DevIO.Business\bin\Debug\netcoreapp2.2\DevIO.Business.deps.json
+C:\Users\Desenvolvimento\Documents\Cursos Ponto.Sys\ASP.NET Core MVC\AppMvcCompleta\AppMVCCompleta\src\DevIO.Business\bin\Debug\netcoreapp2.2\DevIO.Business.dll
+C:\Users\Desenvolvimento\Documents\Cursos Ponto.Sys\ASP.NET Core MVC\AppMvcCompleta\AppMVCCompleta\src\DevIO.Business\bin\Debug\netcoreapp2.2\DevIO.Business.pdb
+C:\Users\Desenvolvimento\Documents\Cursos Ponto.Sys\ASP.NET Core MVC\AppMvcCompleta\AppMVCCompleta\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.csproj.AssemblyReference.cache
+C:\Users\Desenvolvimento\Documents\Cursos Ponto.Sys\ASP.NET Core MVC\AppMvcCompleta\AppMVCCompleta\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desenvolvimento\Documents\Cursos Ponto.Sys\ASP.NET Core MVC\AppMvcCompleta\AppMVCCompleta\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.AssemblyInfoInputs.cache
+C:\Users\Desenvolvimento\Documents\Cursos Ponto.Sys\ASP.NET Core MVC\AppMvcCompleta\AppMVCCompleta\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.AssemblyInfo.cs
+C:\Users\Desenvolvimento\Documents\Cursos Ponto.Sys\ASP.NET Core MVC\AppMvcCompleta\AppMVCCompleta\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.csproj.CoreCompileInputs.cache
+C:\Users\Desenvolvimento\Documents\Cursos Ponto.Sys\ASP.NET Core MVC\AppMvcCompleta\AppMVCCompleta\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.dll
+C:\Users\Desenvolvimento\Documents\Cursos Ponto.Sys\ASP.NET Core MVC\AppMvcCompleta\AppMVCCompleta\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.pdb

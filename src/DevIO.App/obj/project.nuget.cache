@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SWdqNelEhOxCJJdZeq0drIIeMyZfuYVCNNqBBERlusXGmNAqgcNtBN1W0tLDOpffw8uRd/S6cQTNEgfSOyenow==",
+  "dgSpecHash": "bq8S3Ylc1YVle0HnO1qlJE4FdPTezG0Em8kVI5mUQVNdVlFvVyCAfLkGmpdz42SRn/H7jNPWlprnzk5XGXjK5A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Desenvolvimento\\Downloads\\Vitor-Ponto.Sys\\Vitor\\ProjetoFinal-Curso-ASP.NET-MVC-Core\\ProjetoFinal-Curso-ASP.NET-MVC-Core-main\\src\\DevIO.App\\DevIO.App.csproj",
+  "projectFilePath": "C:\\Users\\Desenvolvimento\\Documents\\Cursos Ponto.Sys\\ASP.NET Core MVC\\AppMvcCompleta\\AppMVCCompleta\\src\\DevIO.App\\DevIO.App.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Desenvolvimento\\.nuget\\packages\\automapper\\8.1.0\\automapper.8.1.0.nupkg.sha512",
     "C:\\Users\\Desenvolvimento\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\6.1.0\\automapper.extensions.microsoft.dependencyinjection.6.1.0.nupkg.sha512",

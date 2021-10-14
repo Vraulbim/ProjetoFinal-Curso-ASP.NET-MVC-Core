@@ -37,3 +37,16 @@ C:\Users\Desenvolvimento\Downloads\Vitor-Ponto.Sys\Vitor\ProjetoFinal-Curso-ASP.
 C:\Users\Desenvolvimento\Downloads\Vitor-Ponto.Sys\Vitor\ProjetoFinal-Curso-ASP.NET-MVC-Core\ProjetoFinal-Curso-ASP.NET-MVC-Core-main\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.csproj.CopyComplete
 C:\Users\Desenvolvimento\Downloads\Vitor-Ponto.Sys\Vitor\ProjetoFinal-Curso-ASP.NET-MVC-Core\ProjetoFinal-Curso-ASP.NET-MVC-Core-main\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.dll
 C:\Users\Desenvolvimento\Downloads\Vitor-Ponto.Sys\Vitor\ProjetoFinal-Curso-ASP.NET-MVC-Core\ProjetoFinal-Curso-ASP.NET-MVC-Core-main\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.pdb
+C:\Users\Desenvolvimento\Documents\Cursos Ponto.Sys\ASP.NET Core MVC\AppMvcCompleta\AppMVCCompleta\src\DevIO.Data\bin\Debug\netcoreapp2.2\DevIO.Data.deps.json
+C:\Users\Desenvolvimento\Documents\Cursos Ponto.Sys\ASP.NET Core MVC\AppMvcCompleta\AppMVCCompleta\src\DevIO.Data\bin\Debug\netcoreapp2.2\DevIO.Data.dll
+C:\Users\Desenvolvimento\Documents\Cursos Ponto.Sys\ASP.NET Core MVC\AppMvcCompleta\AppMVCCompleta\src\DevIO.Data\bin\Debug\netcoreapp2.2\DevIO.Data.pdb
+C:\Users\Desenvolvimento\Documents\Cursos Ponto.Sys\ASP.NET Core MVC\AppMvcCompleta\AppMVCCompleta\src\DevIO.Data\bin\Debug\netcoreapp2.2\DevIO.Business.dll
+C:\Users\Desenvolvimento\Documents\Cursos Ponto.Sys\ASP.NET Core MVC\AppMvcCompleta\AppMVCCompleta\src\DevIO.Data\bin\Debug\netcoreapp2.2\DevIO.Business.pdb
+C:\Users\Desenvolvimento\Documents\Cursos Ponto.Sys\ASP.NET Core MVC\AppMvcCompleta\AppMVCCompleta\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.csproj.AssemblyReference.cache
+C:\Users\Desenvolvimento\Documents\Cursos Ponto.Sys\ASP.NET Core MVC\AppMvcCompleta\AppMVCCompleta\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desenvolvimento\Documents\Cursos Ponto.Sys\ASP.NET Core MVC\AppMvcCompleta\AppMVCCompleta\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.AssemblyInfoInputs.cache
+C:\Users\Desenvolvimento\Documents\Cursos Ponto.Sys\ASP.NET Core MVC\AppMvcCompleta\AppMVCCompleta\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.AssemblyInfo.cs
+C:\Users\Desenvolvimento\Documents\Cursos Ponto.Sys\ASP.NET Core MVC\AppMvcCompleta\AppMVCCompleta\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.csproj.CoreCompileInputs.cache
+C:\Users\Desenvolvimento\Documents\Cursos Ponto.Sys\ASP.NET Core MVC\AppMvcCompleta\AppMVCCompleta\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.csproj.CopyComplete
+C:\Users\Desenvolvimento\Documents\Cursos Ponto.Sys\ASP.NET Core MVC\AppMvcCompleta\AppMVCCompleta\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.dll
+C:\Users\Desenvolvimento\Documents\Cursos Ponto.Sys\ASP.NET Core MVC\AppMvcCompleta\AppMVCCompleta\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.pdb

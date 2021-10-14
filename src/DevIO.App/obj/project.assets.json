@@ -13119,11 +13119,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Desenvolvimento\\Downloads\\Vitor-Ponto.Sys\\Vitor\\ProjetoFinal-Curso-ASP.NET-MVC-Core\\ProjetoFinal-Curso-ASP.NET-MVC-Core-main\\src\\DevIO.App\\DevIO.App.csproj",
+      "projectUniqueName": "C:\\Users\\Desenvolvimento\\Documents\\Cursos Ponto.Sys\\ASP.NET Core MVC\\AppMvcCompleta\\AppMVCCompleta\\src\\DevIO.App\\DevIO.App.csproj",
       "projectName": "DevIO.App",
-      "projectPath": "C:\\Users\\Desenvolvimento\\Downloads\\Vitor-Ponto.Sys\\Vitor\\ProjetoFinal-Curso-ASP.NET-MVC-Core\\ProjetoFinal-Curso-ASP.NET-MVC-Core-main\\src\\DevIO.App\\DevIO.App.csproj",
+      "projectPath": "C:\\Users\\Desenvolvimento\\Documents\\Cursos Ponto.Sys\\ASP.NET Core MVC\\AppMvcCompleta\\AppMVCCompleta\\src\\DevIO.App\\DevIO.App.csproj",
       "packagesPath": "C:\\Users\\Desenvolvimento\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Desenvolvimento\\Downloads\\Vitor-Ponto.Sys\\Vitor\\ProjetoFinal-Curso-ASP.NET-MVC-Core\\ProjetoFinal-Curso-ASP.NET-MVC-Core-main\\src\\DevIO.App\\obj\\",
+      "outputPath": "C:\\Users\\Desenvolvimento\\Documents\\Cursos Ponto.Sys\\ASP.NET Core MVC\\AppMvcCompleta\\AppMVCCompleta\\src\\DevIO.App\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -13143,8 +13143,8 @@
         "netcoreapp2.2": {
           "targetAlias": "netcoreapp2.2",
           "projectReferences": {
-            "C:\\Users\\Desenvolvimento\\Downloads\\Vitor-Ponto.Sys\\Vitor\\ProjetoFinal-Curso-ASP.NET-MVC-Core\\ProjetoFinal-Curso-ASP.NET-MVC-Core-main\\src\\DevIO.Data\\DevIO.Data.csproj": {
-              "projectPath": "C:\\Users\\Desenvolvimento\\Downloads\\Vitor-Ponto.Sys\\Vitor\\ProjetoFinal-Curso-ASP.NET-MVC-Core\\ProjetoFinal-Curso-ASP.NET-MVC-Core-main\\src\\DevIO.Data\\DevIO.Data.csproj"
+            "C:\\Users\\Desenvolvimento\\Documents\\Cursos Ponto.Sys\\ASP.NET Core MVC\\AppMvcCompleta\\AppMVCCompleta\\src\\DevIO.Data\\DevIO.Data.csproj": {
+              "projectPath": "C:\\Users\\Desenvolvimento\\Documents\\Cursos Ponto.Sys\\ASP.NET Core MVC\\AppMvcCompleta\\AppMVCCompleta\\src\\DevIO.Data\\DevIO.Data.csproj"
             }
           }
         }

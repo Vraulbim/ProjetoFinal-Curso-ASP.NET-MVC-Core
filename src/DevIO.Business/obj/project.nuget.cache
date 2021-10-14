@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5zabr+KOLUjE4MFHBePRyyGTWOv+jzBZ0F6oDrZvOai+YIWbB3aYjv8XmsaTBuYtdBMC1pW19hQCFv9SYcALkg==",
+  "dgSpecHash": "b1EMWIP9nncpHkz7e3QdTgZ+b3aZZzNvA/epARDnryqXWqqg6WMypo/eClCQXyD05O5Jf+P+MOw55zzI5wfIiA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Desenvolvimento\\Downloads\\Vitor-Ponto.Sys\\Vitor\\ProjetoFinal-Curso-ASP.NET-MVC-Core\\ProjetoFinal-Curso-ASP.NET-MVC-Core-main\\src\\DevIO.Business\\DevIO.Business.csproj",
+  "projectFilePath": "C:\\Users\\Desenvolvimento\\Documents\\Cursos Ponto.Sys\\ASP.NET Core MVC\\AppMvcCompleta\\AppMVCCompleta\\src\\DevIO.Business\\DevIO.Business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Desenvolvimento\\.nuget\\packages\\fluentvalidation\\8.3.0\\fluentvalidation.8.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.app\\2.2.0\\microsoft.netcore.app.2.2.0.nupkg.sha512",
