@@ -1,8 +1,6 @@
 ﻿@model DevIO.App.ViewModels.FornecedorViewModel
 
-@{
-    ViewData["Title"] = "Editar" + Model.Nome;
-}
+@{ ViewData["Title"] = "Editar" + Model.Nome; }
 
 <h1>@ViewData["Title"]</h1>
 <hr />
@@ -60,19 +58,18 @@
 
 <div id="myModal" class="modal fade in">
     <div class="modal-dialog">
-        <div id="modal-content"> 
+        <div class="modal-content">
             <div id="myModalContent"></div>
         </div>
     </div>
 </div>
 
 @section Scripts {
-    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");
-        
-        <script>
-            $(document).ready(function () {
-                AjaxModal();
-            });
-        </script>
-        }
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial"); }
+
+    <script>
+        $(document).ready(function () {
+            AjaxModal();
+        });
+    </script>
 }
